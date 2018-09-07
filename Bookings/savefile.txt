@@ -1,0 +1,14 @@
+---------------Saving-----------------
+HotelProduct ID: 1
+HotelProduct Company Name: Nala
+HotelProduct Price: 6000
+HotelProduct ID: 1
+HotelProduct Company Name: Nala
+HotelProduct Price: 6000
+---------------Saving-----------------
+AcivityProduct ID: 1
+AcivityProduct Company Name: Movie
+AcivityProduct Price: 500
+AcivityProduct ID: 1
+AcivityProduct Company Name: Movie
+AcivityProduct Price: 500
