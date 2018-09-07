@@ -28,7 +28,7 @@ namespace Bookings
 
         public string GetProductDetails()
         {
-            return string.Format("{0},{1},{2},{3}", ID, Name, Price, isBooked);
+            return string.Format("{0},{1},{2},{3}", ID, Name, new AirFareMargin().AddFareMargin(Price), isBooked);
         }
 
         public void Booked()
