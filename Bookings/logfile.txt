@@ -1,0 +1,135 @@
+Getting CarProduct product instance
+Returning instance of called class
+Getting CarProduct product instance
+Returning instance of called class
+FileDatabase instance is created
+CarProduct Booking is cancelled
+Getting CarProduct product instance
+Returning instance of called class
+FileDatabase instance is created
+CarProduct Booking is cancelled
+Getting CarProduct product instance
+Returning instance of called class
+FileDatabase instance is created
+CarProduct is Booked
+Getting CarProduct product instance
+Returning instance of called class
+FileDatabase instance is created
+CarProduct Booking is cancelled
+Getting CarProduct product instance
+Returning instance of called class
+FileDatabase instance is created
+CarProduct Booking is cancelled
+Getting AirProduct product instance
+Returning instance of called class
+Returning instance of called class
+SQLDatabase instance is created
+SQLDatabase connection is created
+AirProduct is saved in SQLDatabase
+AirProduct is Booked
+AirProduct is booked in SQLDatabase
+Getting HotelProduct product instance
+Returning instance of called class
+Returning instance of called class
+SQLDatabase instance is created
+SQLDatabase connection is created
+HotelProduct is Saved
+HotelProduct is saved in SQLDatabase
+HotelProduct Booking is cancelled
+HotelProduct is booked in SQLDatabase
+Getting HotelProduct product instance
+Returning instance of called class
+Returning instance of called class
+SQLDatabase instance is created
+SQLDatabase connection is created
+HotelProduct is Saved
+HotelProduct is saved in SQLDatabase
+HotelProduct Booking is cancelled
+HotelProduct is booked in SQLDatabase
+Getting HotelProduct product instance
+Returning instance of called class
+Returning instance of called class
+SQLDatabase instance is created
+SQLDatabase connection is created
+HotelProduct is Saved
+HotelProduct is saved in SQLDatabase
+HotelProduct Booking is cancelled
+HotelProduct is booked in SQLDatabase
+Getting HotelProduct product instance
+Returning instance of called class
+Returning instance of called class
+SQLDatabase instance is created
+SQLDatabase connection is created
+HotelProduct is Saved
+HotelProduct is saved in SQLDatabase
+HotelProduct Booking is cancelled
+HotelProduct is booked in SQLDatabase
+Getting CarProduct product instance
+Returning instance of called class
+Returning instance of called class
+SQLDatabase instance is created
+SQLDatabase connection is created
+CarProduct is Saved
+CarProduct is saved in SQLDatabase
+CarProduct is Booked
+CarProduct is booked in SQLDatabase
+Getting CarProduct product instance
+Returning instance of called class
+Returning instance of called class
+FileDatabase instance is created
+FileDatabase connection is created
+FileDatabase connection is created
+CarProduct is booked
+CarProduct is saved in FileDatabase
+CarProduct booking is cancelled
+CarProduct is booked in FileDatabase
+Getting CarProduct product instance
+Returning instance of called class
+Returning instance of called class
+FileDatabase instance is created
+FileDatabase connection is created
+FileDatabase connection is created
+CarProduct is booked
+CarProduct is saved in FileDatabase
+CarProduct booking is cancelled
+CarProduct is booked in FileDatabase
+Getting CarProduct product instance
+Returning instance of called class
+Returning instance of called class
+FileDatabase instance is created
+FileDatabase connection is created
+FileDatabase connection is created
+CarProduct is booked
+CarProduct booking is cancelled
+Getting CarProduct product instance
+Returning instance of called class
+Returning instance of called class
+FileDatabase instance is created
+FileDatabase connection is created
+FileDatabase connection is created
+CarProduct is booked
+CarProduct booking is cancelled
+Getting CarProduct product instance
+Returning instance of called class
+Returning instance of called class
+FileDatabase instance is created
+FileDatabase connection is created
+FileDatabase connection is created
+CarProduct is booked
+CarProduct is booked
+Getting HotelProduct product instance
+Returning instance of called class
+Returning instance of called class
+FileDatabase instance is created
+FileDatabase connection is created
+FileDatabase connection is created
+HotelProduct is booked
+HotelProduct is booked
+Getting ActivityProduct product instance
+Returning instance of called class
+Returning instance of called class
+FileDatabase instance is created
+FileDatabase connection is created
+FileDatabase connection is created
+AcivityProduct is Saved
+AcivityProduct is booked
